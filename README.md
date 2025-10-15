@@ -60,5 +60,5 @@ Using supervised machine learning models, the goal is to identify the **key driv
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<akshay18269>/coupon-acceptance-prediction.git
+   git clone https://github.com/akshay18269/coupon-acceptance-prediction.git
    cd coupon-acceptance-prediction
